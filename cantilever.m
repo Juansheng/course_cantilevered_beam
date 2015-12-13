@@ -96,7 +96,7 @@ function yt = func(y, t)
     global e_force;
 
     # load applied on the free end
-    e_force(end-1) = f*sin(omg*t);
+    e_force(end-1) = -f*sin(omg*t);
 
     # ydot evaluation
     yt = zeros(2*n_trim, 1);
