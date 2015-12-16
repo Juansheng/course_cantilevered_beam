@@ -2,7 +2,7 @@ Cantileverd Beam
 ================
 
 ## Model
-TODO
+![Cantilever Model](cantilevered_beam.png)
 
 ## Course Objectives
 * introduce Octave/Matlab world to undergraduate students
